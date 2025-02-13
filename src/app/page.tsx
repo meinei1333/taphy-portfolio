@@ -1,7 +1,7 @@
 "use client";
 
 import Head from "next/head";
-import { useState, useEffect } from "react";
+import { useState } from "react";
 import SelfIntroduction from "./SelfIntroduction";
 import Demo from "./Demo";
 import Tools from "./Tools";

@@ -5,7 +5,7 @@ export default function SelfIntroduction() {
     <div className="bg-white p-6 shadow-md rounded-lg">
       <h2 className="text-2xl font-semibold my-4">👋 About Me</h2>
       <p className="text-gray-700">
-        Hi, I'm Taphy, a passionate Front End and H5 Game Developer. I love creating interactive and visually appealing web applications.
+        Hello, I&apos;m Taphy, a passionate Front End and H5 Game Developer. I love creating interactive and visually appealing web applications.
       </p>
       <p className="mt-4 text-gray-600">My expertise includes:</p>
       <ul className="list-disc list-inside text-gray-600 mt-2">
